@@ -4,7 +4,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A project analyzing public sentiment around Kamala Harris and Donald Trump during the 2024 US Presidential Election using Reddit data and advanced NLP techniques. 🗳️
+A project analyzing public sentiment around Kamala Harris and Donald Trump during the 2024 US Presidential Election using Reddit data.
 
 ## ✨ Features
 
