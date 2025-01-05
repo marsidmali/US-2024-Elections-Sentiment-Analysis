@@ -57,13 +57,6 @@ REDDIT_CLIENT_SECRET=your_client_secret_here
 REDDIT_USER_AGENT=your_user_agent_here
 ```
 
-## 📊 Key Findings
-
-- Sentiment analysis reveals distinct patterns in public discussions about both candidates
-- Temporal trends show evolving public opinion throughout the election period
-- Comparative analysis shows differences in sentiment distribution between candidates
-
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/marsidmali/US-2024-Elections-Sentiment-Analysis/blob/main/LICENSE) file for details.
